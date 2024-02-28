@@ -1,0 +1,29 @@
+.site-header{
+    background-color: #c42b04;
+    color: white;  /* This is the color of the text */
+    height: 100vh;   /* This 100vh covers 100% of your screen */
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content{
+    margin: 10px;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: #ffd3d3 2px 5px 5px;
+}
+
+.contact-gmail-id{
+    color: white;
+}
+
+body{
+    margin: 0;
+}
